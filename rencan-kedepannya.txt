@@ -1,0 +1,6 @@
+RENCANA
+-. JS
+  *. fundamental JS
+-.CSS
+-.REACT
+-.DATABASE
