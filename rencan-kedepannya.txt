@@ -1,6 +1,8 @@
 RENCANA
 -. JS
   *. fundamental JS
+  *. Looping 
 -.CSS
 -.REACT
 -.DATABASE
+
