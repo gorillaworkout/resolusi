@@ -2,9 +2,11 @@ RENCANA
 -. JS
   *. fundamental JS
   *. Looping 
-  *. If else
+  *. IF else
   *.Algorithm
--.Angular JS
+-. HTML
 -.CSS
 -.DATABASE
+ -.Mongo DB
+ 
 
