@@ -2,7 +2,9 @@ RENCANA
 -. JS
   *. fundamental JS
   *. Looping 
+  *. If else
+  *.Algorithm
+-.Angular JS
 -.CSS
--.REACT
 -.DATABASE
 
