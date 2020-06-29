@@ -6,7 +6,6 @@ RENCANA
   *.Algorithm
 -. HTML
 -.CSS
--.REACT
 -.DATABASE
  -.Mongo DB
  
