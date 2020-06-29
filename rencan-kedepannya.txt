@@ -4,6 +4,7 @@ RENCANA
   *. Looping 
   *. IF else
   *.Algorithm
+-. HTML
 -.CSS
 -.REACT
 -.DATABASE
