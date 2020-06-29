@@ -1,3 +1,5 @@
 RESOLUSI:
 -. Konsisten belajar javascript!
 -. konsisten Belajar b.jepang
+-. membuat website tanpa react
+-.pertengahan tahun depan minimal sudah dapat JLPT N-5
